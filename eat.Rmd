@@ -62,4 +62,11 @@ colPerc(table2)
 In this this numerical summary shows that that 82.83 percent of white race goes out to eat and 17.17 percent does not eat out.The black people 68.75 percent ate out and 31.25 do not eat out.In the other races 77.78.78 percent eat out and 22.22 percent does not eat out out of 100 percent.
 
 
+```{r}
+chisq.test(table2)
+chisqtestGC(table2)
+```
 
+
+
+In the inferential results the P-Value = 8e-04 according to this p value is smaller than .05 which means we reject the null hypothesis at the 95% level.Which is the level that we are going to reject it since its a small number 0.0008.
