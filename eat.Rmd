@@ -70,3 +70,16 @@ chisqtestGC(table2)
 
 
 In the inferential results the P-Value = 8e-04 according to this p value is smaller than .05 which means we reject the null hypothesis at the 95% level.Which is the level that we are going to reject it since its a small number 0.0008.
+
+
+```{r ,eval=TRUE, include=TRUE}
+fisherXY(mydata$race,mydata$eatout,printAll = T)
+```
+
+
+According to the Fisher XY table it shows that th white race is different from the blacks.The only difference when the groups are compare is the whites and the blacks.
+
+
+
+
+conclusion
