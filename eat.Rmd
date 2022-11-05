@@ -59,4 +59,7 @@ table2 <- xtabs(~eatout + race, data=mydata)
 rowPerc(table2)
 colPerc(table2)
 ```
-In this this 
+In this this numerical summary shows that that 82.83 percent of white race goes out to eat and 17.17 percent does not eat out.The black people 68.75 percent ate out and 31.25 do not eat out.In the other races 77.78.78 percent eat out and 22.22 percent does not eat out out of 100 percent.
+
+
+
