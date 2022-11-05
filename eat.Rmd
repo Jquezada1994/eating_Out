@@ -82,4 +82,9 @@ According to the Fisher XY table it shows that th white race is different from t
 
 
 
-conclusion
+Conclusion
+
+
+
+Overall the race that eats out the most is white compared to the other races and the blacks so we reject the $H_0$ hypothesis.
+
